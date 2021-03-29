@@ -1,0 +1,14 @@
+body {
+    background: rgb(236, 233, 233);
+}
+th {
+    background-color: bisque;
+    border: cadetblue;
+    border-style: dotted;
+    color: rgb(12, 26, 105);
+
+}
+.cell {
+    background-color: white;
+    font-style: oblique;
+}
